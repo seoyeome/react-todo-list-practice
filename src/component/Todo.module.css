@@ -1,0 +1,32 @@
+.container {
+  align-content: center;
+  
+}
+.box {
+  border-radius: 10px;
+  border: solid #6F4390 1px;
+  width: 50vw;
+  height: 80vh;
+  margin: auto;
+  
+  
+}
+
+.inputbox {
+  border: none;
+  margin: 15px;
+  width: 50%;
+  border-bottom: solid #D1BFE0 1px;
+}
+
+button {
+  background-color: #D1BFE0;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.todos {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
